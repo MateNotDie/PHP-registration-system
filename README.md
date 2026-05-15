@@ -1,2 +1,2 @@
-# PHP-registration-system
-A simple registration system coded in PHP.
+# PHP-rigisztrációs-rendszer
+Egy egyszerű regisztráció rendszer PHP-val programozva.
